@@ -9,3 +9,20 @@
   border: 1px solid #000;
 }
 
+#controls {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#controls button {
+  margin-right: 10px;
+}
+
+.correct {
+  background-color: green;
+}
+
+.incorrect {
+  background-color: red;
+}
+
